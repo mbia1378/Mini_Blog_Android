@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BlogPhotos</string>
+    <string name="login_logo_desc">logo de connexion</string>
+    <string name="email_hint">Email</string>
+    <string name="pass_hint">Mot de passe</string>
+    <string name="login_btn_text">Connexion</string>
+    <string name="login_reg_btn_text">Besoin d\'un compte ?</string>
+    <string name="action_search_text">Recherche</string>
+    <string name="action_setting_text">Paramètres compte</string>
+    <string name="action_logout_text">Déconnexion</string>
+    <string name="reg_confirm_pass_text">Confirmer mot de passe</string>
+    <string name="reg_btn_text">s\'inscrire</string>
+    <string name="reg_login_text">Se Connecter</string>
+    <string name="reg_pass_text">Mot de passe...</string>
+    <string name="setup_name_hint_text">Modifier le nom</string>
+    <string name="setup_btn_name_text">Enregistrer les informations</string>
+</resources>
