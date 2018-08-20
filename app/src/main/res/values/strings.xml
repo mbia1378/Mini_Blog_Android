@@ -14,4 +14,9 @@
     <string name="reg_pass_text">Mot de passe...</string>
     <string name="setup_name_hint_text">Modifier le nom</string>
     <string name="setup_btn_name_text">Enregistrer les informations</string>
+    <string name="bottom_home_text">accueil</string>
+    <string name="bottom_notification_text">notifications</string>
+    <string name="bottom_ac_text">person</string>
+    <string name="post_desc_hint">description</string>
+    <string name="new_post_btn_hint">publier</string>
 </resources>
